@@ -73,10 +73,3 @@ Each algorithm:
 
 
 
-
-
-## 📁 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/8-queens-local-search.git
